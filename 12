@@ -1,0 +1,22 @@
+{
+  "logging_configs": {
+    "array_size": 2,
+    "metric_configs": {
+      "number": "bigint",
+      "word": "string"
+    }
+  },
+  "metadata": {
+    "binary": "example_binary"
+  },
+  "metrics": {
+    "number": [
+      4,
+      2
+    ],
+    "word": [
+      "foo",
+      "bar"
+    ]
+  }
+}
